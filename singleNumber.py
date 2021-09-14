@@ -3,16 +3,22 @@ from typing import List
 
 
 class Solution:
+	# def singleNumber(self, nums: List[int]) -> int:
+	# 	tmp_dict = {}
+	# 	for i in nums:
+	# 		if i in tmp_dict:
+	# 			tmp_dict[i] += 1
+	# 		else:
+	# 			tmp_dict[i] = 1
+	# 	for i in nums:
+	# 		if tmp_dict[i] == 1:
+	# 			return i
 	def singleNumber(self, nums: List[int]) -> int:
-		tmp_dict = {}
-		for i in nums:
-			if i in tmp_dict:
-				tmp_dict[i] += 1
-			else:
-				tmp_dict[i] = 1
-		for i in nums:
-			if tmp_dict[i] == 1:
-				return i
+		x = 0
+		for n in nums:
+			x ^= n
+		return x
+
 
 
 if __name__ == '__main__':
