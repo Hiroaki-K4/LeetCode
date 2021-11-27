@@ -1,0 +1,15 @@
+Array/removeDuplicates
+Array/maxProfit
+Array/intersect
+Array/moveZeroes
+Strings/firstUniqChar
+Strings/isAnagram
+Strings/strStr
+Strings/longestCommonPrefix
+Sort_Search/firstBadVersion
+DynamicProgramming/climbStairs
+DynamicProgramming/maxProfit
+DynamicProgramming/maxSubArray
+DynamicProgramming/rob
+Design/ShuffleanArray
+Design/countPrimes
