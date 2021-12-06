@@ -1,4 +1,4 @@
-Array/removeDuplicates
+Array/removeDuplicates clear 2021/12/6
 Array/maxProfit
 Array/intersect
 Array/moveZeroes
@@ -11,5 +11,5 @@ DynamicProgramming/climbStairs
 DynamicProgramming/maxProfit
 DynamicProgramming/maxSubArray
 DynamicProgramming/rob
-Design/ShuffleanArray
+Design/ShuffleanArr ay
 Design/countPrimes
