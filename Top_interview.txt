@@ -11,5 +11,5 @@ DynamicProgramming/climbStairs
 DynamicProgramming/maxProfit
 DynamicProgramming/maxSubArray
 DynamicProgramming/rob
-Design/ShuffleanArr ay
+Design/ShuffleanArray
 Design/countPrimes
