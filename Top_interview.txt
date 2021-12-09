@@ -1,5 +1,5 @@
-Array/removeDuplicates clear 2021/12/6
-Array/maxProfit
+Array/removeDuplicates Clear 2021/12/6
+Array/maxProfit NotClear 2021/12/9
 Array/intersect
 Array/moveZeroes
 Strings/firstUniqChar
