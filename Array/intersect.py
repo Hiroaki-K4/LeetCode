@@ -6,8 +6,6 @@ class Solution:
 	def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
 		nums1.sort()
 		nums2.sort()
-		# print(nums1)
-		# print(nums2)
 		i, j = 0, 0
 		res = []
 		while i < len(nums1) and j < len(nums2):

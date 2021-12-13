@@ -1,6 +1,6 @@
 Array/removeDuplicates Clear 2021/12/6
 Array/maxProfit NotClear 2021/12/9
-Array/intersect
+Array/intersect Clear 2021/12/13
 Array/moveZeroes
 Strings/firstUniqChar
 Strings/isAnagram
