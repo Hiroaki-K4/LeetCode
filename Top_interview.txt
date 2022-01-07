@@ -3,8 +3,8 @@ Array/maxProfit NotClear 2021/12/09
 Array/intersect Clear 2021/12/13
 Array/moveZeroes Clear 2021/12/18
 Strings/firstUniqChar Clear 2021/12/22
-Strings/isAnagram Clear 2021/01/05
-Strings/strStr
+Strings/isAnagram Clear 2022/01/05
+Strings/strStr Clear 2022/01/07
 Strings/longestCommonPrefix
 Sort_Search/firstBadVersion
 DynamicProgramming/climbStairs
